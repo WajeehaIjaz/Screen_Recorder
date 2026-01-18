@@ -11,4 +11,5 @@ Finish: Save everything
 Think of it like a flip book:
 
 Each screenshot = one page
+
 All pages together = your video!
