@@ -1,7 +1,11 @@
 Screen Recorder works as
-Setup: Figure out screen size and create a video file,
-Loop: Keep taking screenshots and adding them to the video,
+
+Setup: Figure out screen size and create a video file
+
+Loop: Keep taking screenshots and adding them to the video
+
 Timer: After 10 seconds,it stops
+
 Finish: Save everything
 
 Think of it like a flip book:
